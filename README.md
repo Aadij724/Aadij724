@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))]
 <h1 align="center">Hi 👋, I'm Aadi Jain</h1>
 <h3 align="center">I am a passionate, dedicated, and collaborative MERN developer with strong skills in data structures and algorithms. Currently, I am expanding my expertise by learning AWS to enhance my capabilities in cloud computing.</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F16191500-Coder%2Fattachments%2F8050475%3Fmode%3Dmedia&psig=AOvVaw27rLBsSCYd6LBCrskMfAeG&ust=1722656703787000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCODq18Oy1YcDFQAAAAAdAAAAABAE)")
+(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadij724&label=Profile%20views&color=0e75b6&style=flat" alt="aadij724" /> </p>
 
